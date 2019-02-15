@@ -1,0 +1,57 @@
+body{
+    background-image: url("images/back.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.Header{
+    text-align: right;
+    background-color: skyblue;
+}
+.section1{
+text-align: right;
+}
+.Time1{
+    text-underline-position: below;
+    border-bottom-style: dashed;
+    width: 80pt;
+}
+#TimeDiv1>h2{
+    display: inline;
+}
+
+.Main_Body{
+    width: 80%;
+    height: 93%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 2%;
+    margin-bottom: 5%;
+}
+#Spatula{
+    float: right;
+}
+
+div.SpatulaPart{
+    height: 200pt;
+    background-color: rgb(195, 245, 228);
+}
+.FriendDiv{
+    float: left;
+    border-color: rgb(42, 39, 219);
+    border-width: 1px;
+}
+.CookieDiv{
+    background-color: rgb(195, 245, 228);
+    height: 200pt;
+}
+#cookieImg{
+    float: right;
+}
+#TimeDiv2{
+    text-underline-position: below;
+    border-bottom-style: dashed;
+    width: 80pt;
+}
+.Header2{
+    display: inline-block;
+}
